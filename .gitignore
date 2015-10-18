@@ -1,0 +1,12 @@
+# Directorios gradle
+.gradle/
+
+#Ficheros cuyo nombre sea: 
+local.properties
+workspace.xml
+
+# Directorios libraries
+libraries/
+
+#Directorios build
+build/

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Interfaces1d</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fondo_blanco">Fondo Blanco</string>
+    <string name="fondo_rojo">Fondo Rojo</string>
+    <string name="letras_negras">Letras Negras</string>
+    <string name="men_oculto">Mostrar - Este es el mensaje oculto.</string>
+    <string name="pul_larga">Haz aquí una pulsación larga</string>
+    <string name="men">Mostrar</string>
+</resources>
